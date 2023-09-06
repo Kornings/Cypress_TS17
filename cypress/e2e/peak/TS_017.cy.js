@@ -13,7 +13,7 @@ const openPoMenu = index => {
 describe("Quotation Tests", () => {
     beforeEach(() => {
         const username = "qakornkorn1111@engine.com";
-        const password = "Baby159951";
+        const password = "kornkorninwza";
         LoginWithPageSession(username, password);
     });
 
